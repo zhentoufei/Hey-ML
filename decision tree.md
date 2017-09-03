@@ -180,6 +180,12 @@
 
 
 
+**6.关于sklearn中的使用**
+
+[sklearn.tree.DecisionTreeClassifier](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier)
+
+[Decision Trees](http://scikit-learn.org/stable/modules/tree.html)
+
 ------
 
 **参考**
